@@ -33,6 +33,9 @@ page.save('dist/index.html')
 > _WORK IN PROGRESS_
 >
 > My current idea of implementing this is [packen](https://github.com/loreanvictor/packen) + [Happy DOM](https://github.com/capricorn86/happy-dom)
-> with some convenience wrappers over the APIs provided by the two libraries.
+> with some convenience wrappers over the APIs provided by the two libraries. This means the solution will be dependent on [declarative shadow DOM](https://web.dev/declarative-shadow-dom/)
+> which is yet to be supported by all major browsers ([currently its Chrome and Edge](https://caniuse.com/declarative-shadow-dom)). There are
+> possible work-arounds for this limitation, for example forgoing encapsulation and inlining components that can be inlined, but I feel those will fall
+> out of the scope of this project, although it should play nice with them.
 
 <br>
