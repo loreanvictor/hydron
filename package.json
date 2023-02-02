@@ -1,0 +1,23 @@
+{
+  "name": "hydron",
+  "version": "0.0.1",
+  "description": "SSR for Web Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loreanvictor/hydron.git"
+  },
+  "keywords": [
+    "SSR",
+    "WebComponents"
+  ],
+  "author": "Eugene Ghanizadeh Khoub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loreanvictor/hydron/issues"
+  },
+  "homepage": "https://github.com/loreanvictor/hydron#readme"
+}
