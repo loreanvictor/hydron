@@ -8,16 +8,13 @@
 
 ```js
 // my-component.js
-import { packMe } from 'hydron'
+import { definition } from 'hydron'
 
 class MyComponent extends HTMLElement {
   // ...
 }
 
-export default registry => {
-  packMe()
-  registry.define('my-component', MyComponent)
-}
+export default definition('my-component', MyComponent)
 ```
 ```js
 // index.js
@@ -28,7 +25,14 @@ const page = new Page()
 page.use(myComp)
 
 page.document.body.innerHTML = '<my-component></my-component>'
-page.write('dist/index.html')
+page.save('dist/index.html')
 ```
+
+<br>
+
+> _WORK IN PROGRESS_
+>
+> My current idea of implementing this is [packen](https://github.com/loreanvictor/packen) + [Happy DOM](https://github.com/capricorn86/happy-dom)
+> with some convenience wrappers over the APIs provided by the two libraries.
 
 <br>
