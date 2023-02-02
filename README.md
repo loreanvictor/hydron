@@ -18,7 +18,7 @@ export default definition('my-component', MyComponent)
 ```
 ```js
 // index.js
-import { Page } from 'hydron'
+import { Page } from 'hydron/server'
 import myComp from './my-component'
 
 const page = new Page()
