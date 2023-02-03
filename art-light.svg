@@ -2,125 +2,122 @@
 <svg width="1792px" height="992px" viewBox="0 0 1792 992" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>art-light</title>
     <defs>
-        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="91.8032787%" gradientTransform="translate(0.500000,0.500000),scale(0.544643,1.000000),rotate(180.000000),scale(1.000000,1.223240),translate(-0.500000,-0.500000)" id="radialGradient-1">
-            <stop stop-color="#D8D8D8" offset="0%"></stop>
-            <stop stop-color="#D8D8D8" offset="54.5444315%"></stop>
-            <stop stop-color="#D8D8D8" stop-opacity="0" offset="100%"></stop>
-        </radialGradient>
-        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
-            <stop stop-color="#D8D8D8" offset="0%"></stop>
-            <stop stop-color="#87A3D6" offset="100%"></stop>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#E4E8EE" offset="0%"></stop>
+            <stop stop-color="#87AFED" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="0%" y1="50%" x2="121.916051%" y2="50%" id="linearGradient-3">
-            <stop stop-color="#D8D8D8" offset="0%"></stop>
-            <stop stop-color="#87A3D6" offset="100%"></stop>
+        <linearGradient x1="0%" y1="50%" x2="121.916051%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#E4E8EE" offset="0%"></stop>
+            <stop stop-color="#87AFED" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="0%" y1="50%" x2="145.820936%" y2="50%" id="linearGradient-4">
-            <stop stop-color="#D8D8D8" offset="0%"></stop>
-            <stop stop-color="#87A3D6" offset="100%"></stop>
+        <linearGradient x1="0%" y1="50%" x2="145.820936%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#E4E8EE" offset="0%"></stop>
+            <stop stop-color="#87AFED" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="0%" y1="50%" x2="119.654023%" y2="50%" id="linearGradient-5">
-            <stop stop-color="#D8D8D8" offset="0%"></stop>
-            <stop stop-color="#87A3D6" offset="100%"></stop>
+        <linearGradient x1="0%" y1="50%" x2="119.654023%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#E4E8EE" offset="0%"></stop>
+            <stop stop-color="#87AFED" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="0%" y1="50%" x2="122.368725%" y2="50%" id="linearGradient-6">
-            <stop stop-color="#D8D8D8" offset="0%"></stop>
-            <stop stop-color="#87A3D6" offset="100%"></stop>
+        <linearGradient x1="0%" y1="50%" x2="122.368725%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#E4E8EE" offset="0%"></stop>
+            <stop stop-color="#87AFED" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="0%" y1="50%" x2="144.454496%" y2="50%" id="linearGradient-7">
-            <stop stop-color="#D8D8D8" offset="0%"></stop>
-            <stop stop-color="#87A3D6" offset="100%"></stop>
+        <linearGradient x1="0%" y1="50%" x2="144.454496%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#E4E8EE" offset="0%"></stop>
+            <stop stop-color="#87AFED" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="0%" y1="50%" x2="122.056928%" y2="50%" id="linearGradient-8">
-            <stop stop-color="#D8D8D8" offset="0%"></stop>
-            <stop stop-color="#87A3D6" offset="100%"></stop>
+        <linearGradient x1="0%" y1="50%" x2="122.056928%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#E4E8EE" offset="0%"></stop>
+            <stop stop-color="#87AFED" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="0%" y1="50%" x2="122.285853%" y2="50%" id="linearGradient-9">
-            <stop stop-color="#D8D8D8" offset="0%"></stop>
+        <linearGradient x1="0%" y1="50%" x2="122.285853%" y2="50%" id="linearGradient-8">
+            <stop stop-color="#E4E8EE" offset="0%"></stop>
+            <stop stop-color="#87AFED" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="32.7910772%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#1F6FEB" offset="0%"></stop>
             <stop stop-color="#87A3D6" offset="100%"></stop>
         </linearGradient>
         <linearGradient x1="50%" y1="32.7910772%" x2="50%" y2="100%" id="linearGradient-10">
             <stop stop-color="#1F6FEB" offset="0%"></stop>
             <stop stop-color="#87A3D6" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="50%" y1="32.7910772%" x2="50%" y2="100%" id="linearGradient-11">
-            <stop stop-color="#1F6FEB" offset="0%"></stop>
-            <stop stop-color="#87A3D6" offset="100%"></stop>
-        </linearGradient>
     </defs>
     <g id="art-light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M1792,976 L1792,992 L0,992 L0,976 L1792,976 Z M1792,944 L1792,960 L0,960 L0,944 L1792,944 Z M1792,912 L1792,928 L0,928 L0,912 L1792,912 Z M1792,880 L1792,896 L0,896 L0,880 L1792,880 Z M1792,848 L1792,864 L0,864 L0,848 L1792,848 Z M1792,816 L1792,832 L0,832 L0,816 L1792,816 Z M1792,784 L1792,800 L1007,800 L1007,784 L1792,784 Z M1792,752 L1792,768 L1034,768 L1034,752 L1792,752 Z M1792,720 L1792,736 L1070,736 L1070,720 L1792,720 Z M1792,688 L1792,704 L1104,704 L1104,688 L1792,688 Z M1792,656 L1792,672 L1132,672 L1132,656 L1792,656 Z M1792,624 L1792,640 L1104,640 L1104,624 L1792,624 Z M1792,592 L1792,608 L1104,608 L1104,592 L1792,592 Z M1792,560 L1792,576 L0,576 L0,560 L1792,560 Z M1792,528 L1792,544 L0,544 L0,528 L1792,528 Z M1792,496 L1792,512 L0,512 L0,496 L1792,496 Z M1792,464 L1792,480 L1126,480 L1126,464 L1792,464 Z M1792,432 L1792,448 L1126,448 L1126,432 L1792,432 Z M1792,400 L1792,416 L1126,416 L1126,400 L1792,400 Z M1129,384 L1129,368 L1792,368 L1792,384 L1129,384 Z M1792,336 L1792,352 L0,352 L0,336 L1792,336 Z M1792,304 L1792,320 L0,320 L0,304 L1792,304 Z M1792,272 L1792,288 L0,288 L0,272 L1792,272 Z M1792,240 L1792,256 L0,256 L0,240 L1792,240 Z M1792,208 L1792,224 L0,224 L0,208 L1792,208 Z M1792,176 L1792,192 L0,192 L0,176 L1792,176 Z M1792,144 L1792,160 L0,160 L0,144 L1792,144 Z M1792,112 L1792,128 L0,128 L0,112 L1792,112 Z M1792,80 L1792,96 L0,96 L0,80 L1792,80 Z M1792,48 L1792,64 L0,64 L0,48 L1792,48 Z M1792,16 L1792,32 L0,32 L0,16 L1792,16 Z M790,800 L0,800 L0,784 L790,784 L790,800 Z M759,768 L0,768 L0,752 L759,752 L759,768 Z M727,736 L0,736 L0,720 L727,720 L727,736 Z M690,704 L0,704 L0,688 L690,688 L690,704 Z M658,672 L0,672 L0,656 L658,656 L658,672 Z M688,640 L0,640 L0,624 L688,624 L688,640 Z M688,608 L0,608 L0,592 L688,592 L688,608 Z M658,480 L0,480 L0,464 L658,464 L658,480 Z M658,448 L0,448 L0,432 L658,432 L658,448 Z M658,416 L0,416 L0,400 L658,400 L658,416 Z M661,384 L0,384 L0,368 L661,368 L661,384 Z" id="grid" fill="url(#radialGradient-1)"></path>
+        <path d="M1792,976 L1792,992 L0,992 L0,976 L1792,976 Z M1792,944 L1792,960 L0,960 L0,944 L1792,944 Z M1792,912 L1792,928 L0,928 L0,912 L1792,912 Z M1792,880 L1792,896 L0,896 L0,880 L1792,880 Z M1792,848 L1792,864 L0,864 L0,848 L1792,848 Z M1792,816 L1792,832 L0,832 L0,816 L1792,816 Z M1792,784 L1792,800 L1007,800 L1007,784 L1792,784 Z M1792,752 L1792,768 L1034,768 L1034,752 L1792,752 Z M1792,720 L1792,736 L1070,736 L1070,720 L1792,720 Z M1792,688 L1792,704 L1104,704 L1104,688 L1792,688 Z M1792,656 L1792,672 L1132,672 L1132,656 L1792,656 Z M1792,624 L1792,640 L1104,640 L1104,624 L1792,624 Z M1792,592 L1792,608 L1104,608 L1104,592 L1792,592 Z M1792,560 L1792,576 L0,576 L0,560 L1792,560 Z M1792,528 L1792,544 L0,544 L0,528 L1792,528 Z M1792,496 L1792,512 L0,512 L0,496 L1792,496 Z M1792,464 L1792,480 L1126,480 L1126,464 L1792,464 Z M1792,432 L1792,448 L1126,448 L1126,432 L1792,432 Z M1792,400 L1792,416 L1126,416 L1126,400 L1792,400 Z M1792,368 L1792,384 L1129,384 L1129,368 L1792,368 Z M1792,336 L1792,352 L0,352 L0,336 L1792,336 Z M1792,304 L1792,320 L0,320 L0,304 L1792,304 Z M1792,272 L1792,288 L0,288 L0,272 L1792,272 Z M1792,240 L1792,256 L0,256 L0,240 L1792,240 Z M1792,208 L1792,224 L0,224 L0,208 L1792,208 Z M790,800 L0,800 L0,784 L790,784 L790,800 Z M759,768 L0,768 L0,752 L759,752 L759,768 Z M727,736 L0,736 L0,720 L727,720 L727,736 Z M690,704 L0,704 L0,688 L690,688 L690,704 Z M658,672 L0,672 L0,656 L658,656 L658,672 Z M688,640 L0,640 L0,624 L688,624 L688,640 Z M688,608 L0,608 L0,592 L688,592 L688,608 Z M658,480 L0,480 L0,464 L658,464 L658,480 Z M658,448 L0,448 L0,432 L658,432 L658,448 Z M658,416 L0,416 L0,400 L658,400 L658,416 Z M661,384 L0,384 L0,368 L661,368 L661,384 Z" id="grid" fill="#EEEEEE"></path>
+        <polygon id="Path" fill="#EEEEEE" opacity="0.5" points="0 176 1792 176 1792 192 0 192"></polygon>
+        <polygon id="Path" fill="#EEEEEE" opacity="0.25" points="0 144 1792 144 1792 160 0 160"></polygon>
         <g id="Group-3" transform="translate(400.000000, 224.000000)">
-            <path d="M280,320 L280,424 C280,432.836556 272.836556,440 264,440 L256,440 L256,440" id="Path-2-Copy-4" stroke="#87A3D6" stroke-width="16"></path>
+            <path d="M280,320 L280,424 C280,432.836556 272.836556,440 264,440 L256,440 L256,440" id="Path-2-Copy-4" stroke="#87AFED" stroke-width="16"></path>
             <path d="M344,204 L344,296 C344,304.836556 336.836556,312 328,312 L320,312 L320,312" id="Path-2-Copy-11" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M312,172 L312,264 C312,272.836556 304.836556,280 296,280 L288,280 L288,280" id="Path-2-Copy-12" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M280,128 L280,232 C280,240.836556 272.836556,248 264,248 L256,248 L256,248" id="Path-2-Copy-13" stroke="#87A3D6" stroke-width="16"></path>
-            <polygon id="Rectangle-Copy-54" fill="url(#linearGradient-2)" points="64 496 320 496 320 512 64 512"></polygon>
-            <polygon id="Rectangle-Copy-55" fill="url(#linearGradient-2)" points="32 464 288 464 288 480 32 480"></polygon>
-            <polygon id="Rectangle-Copy-56" fill="url(#linearGradient-2)" points="0 432 256 432 256 448 0 448"></polygon>
-            <polygon id="Rectangle-Copy-57" fill="url(#linearGradient-2)" points="32 400 288 400 288 416 32 416"></polygon>
-            <polygon id="Rectangle-Copy-58" fill="url(#linearGradient-3)" points="64 368 272 368 272 384 64 384"></polygon>
-            <polygon id="Rectangle-Copy-59" fill="url(#linearGradient-4)" points="96 336 272 336 272 352 96 352"></polygon>
-            <polygon id="Rectangle-Copy-66" fill="url(#linearGradient-2)" points="96 528 352 528 352 544 96 544"></polygon>
-            <polygon id="Rectangle-Copy-67" fill="url(#linearGradient-2)" points="128 560 384 560 384 576 128 576"></polygon>
-            <polygon id="Rectangle-Copy-68" fill="url(#linearGradient-2)" points="32 272 288 272 288 288 32 288"></polygon>
-            <polygon id="Rectangle-Copy-75" fill="url(#linearGradient-5)" transform="translate(832.000000, 408.000000) scale(-1, 1) translate(-832.000000, -408.000000) " points="704 400 960 400 960 416 704 416"></polygon>
-            <polygon id="Rectangle-Copy-79" fill="url(#linearGradient-6)" transform="translate(824.000000, 376.000000) scale(-1, 1) translate(-824.000000, -376.000000) " points="720 368 928 368 928 384 720 384"></polygon>
-            <polygon id="Rectangle-Copy-80" fill="url(#linearGradient-7)" transform="translate(808.000000, 344.000000) scale(-1, 1) translate(-808.000000, -344.000000) " points="720 336 896 336 896 352 720 352"></polygon>
-            <polygon id="Rectangle-Copy-71" fill="url(#linearGradient-2)" transform="translate(736.000000, 568.000000) scale(-1, 1) translate(-736.000000, -568.000000) " points="608 560 864 560 864 576 608 576"></polygon>
-            <polygon id="Rectangle-Copy-72" fill="url(#linearGradient-2)" transform="translate(768.000000, 536.000000) scale(-1, 1) translate(-768.000000, -536.000000) " points="640 528 896 528 896 544 640 544"></polygon>
-            <polygon id="Rectangle-Copy-73" fill="url(#linearGradient-2)" transform="translate(800.000000, 504.000000) scale(-1, 1) translate(-800.000000, -504.000000) " points="672 496 928 496 928 512 672 512"></polygon>
-            <polygon id="Rectangle-Copy-74" fill="url(#linearGradient-2)" transform="translate(832.000000, 472.000000) scale(-1, 1) translate(-832.000000, -472.000000) " points="704 464 960 464 960 480 704 480"></polygon>
-            <polygon id="Rectangle-Copy-75" fill="url(#linearGradient-2)" transform="translate(864.000000, 440.000000) scale(-1, 1) translate(-864.000000, -440.000000) " points="736 432 992 432 992 448 736 448"></polygon>
-            <path d="M712,320 L712,424 C712,432.836556 719.163444,440 728,440 L736,440 L736,440" id="Path-2-Copy-20" stroke="#87A3D6" stroke-width="16"></path>
-            <polygon id="Rectangle-Copy-76" fill="url(#linearGradient-2)" transform="translate(800.000000, 312.000000) scale(-1, 1) translate(-800.000000, -312.000000) " points="672 304 928 304 928 320 672 320"></polygon>
-            <polygon id="Rectangle-Copy-77" fill="url(#linearGradient-2)" transform="translate(832.000000, 280.000000) scale(-1, 1) translate(-832.000000, -280.000000) " points="704 272 960 272 960 288 704 288"></polygon>
-            <polygon id="Rectangle-Copy-78" fill="url(#linearGradient-2)" transform="translate(864.000000, 248.000000) scale(-1, 1) translate(-864.000000, -248.000000) " points="736 240 992 240 992 256 736 256"></polygon>
-            <polygon id="Rectangle-Copy-81" fill="url(#linearGradient-2)" transform="translate(832.000000, 216.000000) scale(-1, 1) translate(-832.000000, -216.000000) " points="704 208 960 208 960 224 704 224"></polygon>
-            <polygon id="Rectangle-Copy-82" fill="url(#linearGradient-8)" transform="translate(824.000000, 184.000000) scale(-1, 1) translate(-824.000000, -184.000000) " points="720 176 928 176 928 192 720 192"></polygon>
-            <polygon id="Rectangle-Copy-83" fill="url(#linearGradient-8)" transform="translate(792.000000, 152.000000) scale(-1, 1) translate(-792.000000, -152.000000) " points="688 144 896 144 896 160 688 160"></polygon>
-            <polygon id="Rectangle-Copy-84" fill="url(#linearGradient-8)" transform="translate(760.000000, 120.000000) scale(-1, 1) translate(-760.000000, -120.000000) " points="656 112 864 112 864 128 656 128"></polygon>
-            <polygon id="Rectangle-Copy-70" fill="url(#linearGradient-2)" points="64 304 320 304 320 320 64 320"></polygon>
-            <polygon id="Rectangle-Copy-69" fill="url(#linearGradient-2)" points="0 240 256 240 256 256 0 256"></polygon>
-            <polygon id="Rectangle-Copy-88" fill="url(#linearGradient-2)" points="32 208 288 208 288 224 32 224"></polygon>
-            <polygon id="Rectangle-Copy-89" fill="url(#linearGradient-9)" points="64 176 272 176 272 192 64 192"></polygon>
-            <polygon id="Rectangle-Copy-90" fill="url(#linearGradient-9)" points="96 144 304 144 304 160 96 160"></polygon>
-            <polygon id="Rectangle-Copy-91" fill="url(#linearGradient-9)" points="128 112 336 112 336 128 128 128"></polygon>
-            <path d="M312,360 L312,456 C312,464.836556 304.836556,472 296,472 L288,472 L288,472" id="Path-2-Copy-5" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M344,392 L344,488 C344,496.836556 336.836556,504 328,504 L320,504 L320,504" id="Path-2-Copy-6" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M408,441 L408,552 C408,560.836556 400.836556,568 392,568 L384,568 L384,568" id="Path-2-Copy-7" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M584,441 L584,552 C584,560.836556 591.163444,568 600,568 L608,568 L608,568" id="Path-2-Copy-16" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M616,427 L616,520 C616,528.836556 623.163444,536 632,536 L640,536 L640,536" id="Path-2-Copy-17" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M648,395 L648,488 C648,496.836556 655.163444,504 664,504 L672,504 L672,504" id="Path-2-Copy-18" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M680,363 L680,456 C680,464.836556 687.163444,472 696,472 L704,472 L704,472" id="Path-2-Copy-19" stroke="#87A3D6" stroke-width="16"></path>
+            <path d="M312,172 L312,264 C312,272.836556 304.836556,280 296,280 L288,280 L288,280" id="Path-2-Copy-12" stroke="#87AFED" stroke-width="16"></path>
+            <path d="M280,128 L280,232 C280,240.836556 272.836556,248 264,248 L256,248 L256,248" id="Path-2-Copy-13" stroke="#87AFED" stroke-width="16"></path>
+            <polygon id="Rectangle-Copy-54" fill="url(#linearGradient-1)" points="64 496 320 496 320 512 64 512"></polygon>
+            <polygon id="Rectangle-Copy-55" fill="url(#linearGradient-1)" points="32 464 288 464 288 480 32 480"></polygon>
+            <polygon id="Rectangle-Copy-56" fill="url(#linearGradient-1)" points="0 432 256 432 256 448 0 448"></polygon>
+            <polygon id="Rectangle-Copy-57" fill="url(#linearGradient-1)" points="32 400 288 400 288 416 32 416"></polygon>
+            <polygon id="Rectangle-Copy-58" fill="url(#linearGradient-2)" points="64 368 272 368 272 384 64 384"></polygon>
+            <polygon id="Rectangle-Copy-59" fill="url(#linearGradient-3)" points="96 336 272 336 272 352 96 352"></polygon>
+            <polygon id="Rectangle-Copy-66" fill="url(#linearGradient-1)" points="96 528 352 528 352 544 96 544"></polygon>
+            <polygon id="Rectangle-Copy-67" fill="url(#linearGradient-1)" points="128 560 384 560 384 576 128 576"></polygon>
+            <polygon id="Rectangle-Copy-68" fill="url(#linearGradient-1)" points="32 272 288 272 288 288 32 288"></polygon>
+            <polygon id="Rectangle-Copy-75" fill="url(#linearGradient-4)" transform="translate(832.000000, 408.000000) scale(-1, 1) translate(-832.000000, -408.000000) " points="704 400 960 400 960 416 704 416"></polygon>
+            <polygon id="Rectangle-Copy-79" fill="url(#linearGradient-5)" transform="translate(824.000000, 376.000000) scale(-1, 1) translate(-824.000000, -376.000000) " points="720 368 928 368 928 384 720 384"></polygon>
+            <polygon id="Rectangle-Copy-80" fill="url(#linearGradient-6)" transform="translate(808.000000, 344.000000) scale(-1, 1) translate(-808.000000, -344.000000) " points="720 336 896 336 896 352 720 352"></polygon>
+            <polygon id="Rectangle-Copy-71" fill="url(#linearGradient-1)" transform="translate(736.000000, 568.000000) scale(-1, 1) translate(-736.000000, -568.000000) " points="608 560 864 560 864 576 608 576"></polygon>
+            <polygon id="Rectangle-Copy-72" fill="url(#linearGradient-1)" transform="translate(768.000000, 536.000000) scale(-1, 1) translate(-768.000000, -536.000000) " points="640 528 896 528 896 544 640 544"></polygon>
+            <polygon id="Rectangle-Copy-73" fill="url(#linearGradient-1)" transform="translate(800.000000, 504.000000) scale(-1, 1) translate(-800.000000, -504.000000) " points="672 496 928 496 928 512 672 512"></polygon>
+            <polygon id="Rectangle-Copy-74" fill="url(#linearGradient-1)" transform="translate(832.000000, 472.000000) scale(-1, 1) translate(-832.000000, -472.000000) " points="704 464 960 464 960 480 704 480"></polygon>
+            <polygon id="Rectangle-Copy-75" fill="url(#linearGradient-1)" transform="translate(864.000000, 440.000000) scale(-1, 1) translate(-864.000000, -440.000000) " points="736 432 992 432 992 448 736 448"></polygon>
+            <path d="M712,320 L712,424 C712,432.836556 719.163444,440 728,440 L736,440 L736,440" id="Path-2-Copy-20" stroke="#87AFED" stroke-width="16"></path>
+            <polygon id="Rectangle-Copy-76" fill="url(#linearGradient-1)" transform="translate(800.000000, 312.000000) scale(-1, 1) translate(-800.000000, -312.000000) " points="672 304 928 304 928 320 672 320"></polygon>
+            <polygon id="Rectangle-Copy-77" fill="url(#linearGradient-1)" transform="translate(832.000000, 280.000000) scale(-1, 1) translate(-832.000000, -280.000000) " points="704 272 960 272 960 288 704 288"></polygon>
+            <polygon id="Rectangle-Copy-78" fill="url(#linearGradient-1)" transform="translate(864.000000, 248.000000) scale(-1, 1) translate(-864.000000, -248.000000) " points="736 240 992 240 992 256 736 256"></polygon>
+            <polygon id="Rectangle-Copy-81" fill="url(#linearGradient-1)" transform="translate(832.000000, 216.000000) scale(-1, 1) translate(-832.000000, -216.000000) " points="704 208 960 208 960 224 704 224"></polygon>
+            <polygon id="Rectangle-Copy-82" fill="url(#linearGradient-7)" transform="translate(824.000000, 184.000000) scale(-1, 1) translate(-824.000000, -184.000000) " points="720 176 928 176 928 192 720 192"></polygon>
+            <polygon id="Rectangle-Copy-83" fill="url(#linearGradient-7)" transform="translate(792.000000, 152.000000) scale(-1, 1) translate(-792.000000, -152.000000) " points="688 144 896 144 896 160 688 160"></polygon>
+            <polygon id="Rectangle-Copy-84" fill="url(#linearGradient-7)" transform="translate(760.000000, 120.000000) scale(-1, 1) translate(-760.000000, -120.000000) " points="656 112 864 112 864 128 656 128"></polygon>
+            <polygon id="Rectangle-Copy-70" fill="url(#linearGradient-1)" points="64 304 320 304 320 320 64 320"></polygon>
+            <polygon id="Rectangle-Copy-69" fill="url(#linearGradient-1)" points="0 240 256 240 256 256 0 256"></polygon>
+            <polygon id="Rectangle-Copy-88" fill="url(#linearGradient-1)" points="32 208 288 208 288 224 32 224"></polygon>
+            <polygon id="Rectangle-Copy-89" fill="url(#linearGradient-8)" points="64 176 272 176 272 192 64 192"></polygon>
+            <polygon id="Rectangle-Copy-90" fill="url(#linearGradient-8)" points="96 144 304 144 304 160 96 160"></polygon>
+            <polygon id="Rectangle-Copy-91" fill="url(#linearGradient-8)" points="128 112 336 112 336 128 128 128"></polygon>
+            <path d="M312,360 L312,456 C312,464.836556 304.836556,472 296,472 L288,472 L288,472" id="Path-2-Copy-5" stroke="#87AFED" stroke-width="16"></path>
+            <path d="M344,392 L344,488 C344,496.836556 336.836556,504 328,504 L320,504 L320,504" id="Path-2-Copy-6" stroke="#87AFED" stroke-width="16"></path>
+            <path d="M408,441 L408,552 C408,560.836556 400.836556,568 392,568 L384,568 L384,568" id="Path-2-Copy-7" stroke="#87AFED" stroke-width="16"></path>
+            <path d="M584,441 L584,552 C584,560.836556 591.163444,568 600,568 L608,568 L608,568" id="Path-2-Copy-16" stroke="#87AFED" stroke-width="16"></path>
+            <path d="M616,427 L616,520 C616,528.836556 623.163444,536 632,536 L640,536 L640,536" id="Path-2-Copy-17" stroke="#87AFED" stroke-width="16"></path>
+            <path d="M648,395 L648,488 C648,496.836556 655.163444,504 664,504 L672,504 L672,504" id="Path-2-Copy-18" stroke="#87AFED" stroke-width="16"></path>
+            <path d="M680,363 L680,456 C680,464.836556 687.163444,472 696,472 L704,472 L704,472" id="Path-2-Copy-19" stroke="#87AFED" stroke-width="16"></path>
             <path d="M648,200 L648,296 C648,304.836556 655.163444,312 664,312 L672,312 L672,312" id="Path-2-Copy-21" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M680,168 L680,264 C680,272.836556 687.163444,280 696,280 L704,280 L704,280" id="Path-2-Copy-22" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M712,128 L712,232 C712,240.836556 719.163444,248 728,248 L736,248 L736,248" id="Path-2-Copy-23" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M440,409 L440,520 C440,528.836556 447.163444,536 456,536 L496,536 L496,536" id="Path-2-Copy-9" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M552,409 L552,520 C552,528.836556 544.836556,536 536,536 L496,536 L496,536" id="Path-2-Copy-15" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M472,377 L472,488.5 C472,497.336556 479.163444,504.5 488,504.5 L496,504.5 L496,504.5" id="Path-2-Copy-10" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M520,377 L520,488.5 C520,497.336556 512.836556,504.5 504,504.5 L496,504.5 L496,504.5" id="Path-2-Copy-14" stroke="#87A3D6" stroke-width="16"></path>
-            <path d="M376,423 L376,520 C376,528.836556 368.836556,536 360,536 L352,536 L352,536" id="Path-2-Copy-8" stroke="#87A3D6" stroke-width="16"></path>
-            <rect id="Rectangle" fill="url(#linearGradient-10)" x="272" y="128" width="16" height="96"></rect>
-            <rect id="Rectangle-Copy-32" fill="url(#linearGradient-10)" x="304" y="160" width="16" height="96"></rect>
-            <rect id="Rectangle-Copy-33" fill="url(#linearGradient-10)" x="336" y="192" width="16" height="96"></rect>
-            <rect id="Rectangle-Copy-34" fill="url(#linearGradient-10)" x="272" y="320" width="16" height="96"></rect>
-            <rect id="Rectangle-Copy-35" fill="url(#linearGradient-10)" x="304" y="352" width="16" height="96"></rect>
-            <rect id="Rectangle-Copy-36" fill="url(#linearGradient-10)" x="336" y="384" width="16" height="96"></rect>
-            <rect id="Rectangle-Copy-37" fill="url(#linearGradient-10)" x="368" y="416" width="16" height="96"></rect>
-            <polygon id="Rectangle-Copy-38" fill="url(#linearGradient-11)" points="400 440 416 440 416 544 400 544"></polygon>
-            <polygon id="Rectangle-Copy-39" fill="url(#linearGradient-11)" points="432 408 448 408 448 512 432 512"></polygon>
-            <polygon id="Rectangle-Copy-40" fill="url(#linearGradient-11)" points="464 376 480 376 480 480 464 480"></polygon>
-            <polygon id="Rectangle-Copy-41" fill="url(#linearGradient-11)" points="512 376 528 376 528 480 512 480"></polygon>
-            <polygon id="Rectangle-Copy-42" fill="url(#linearGradient-11)" points="544 408 560 408 560 512 544 512"></polygon>
-            <polygon id="Rectangle-Copy-43" fill="url(#linearGradient-11)" points="576 440 592 440 592 544 576 544"></polygon>
-            <polygon id="Rectangle-Copy-44" fill="url(#linearGradient-11)" points="608 408 624 408 624 512 608 512"></polygon>
-            <polygon id="Rectangle-Copy-45" fill="url(#linearGradient-11)" points="640 376 656 376 656 480 640 480"></polygon>
-            <polygon id="Rectangle-Copy-46" fill="url(#linearGradient-11)" points="672 344 688 344 688 448 672 448"></polygon>
-            <polygon id="Rectangle-Copy-47" fill="url(#linearGradient-10)" points="704 320 720 320 720 416 704 416"></polygon>
-            <polygon id="Rectangle-Copy-48" fill="url(#linearGradient-10)" points="704 128 720 128 720 224 704 224"></polygon>
-            <polygon id="Rectangle-Copy-49" fill="url(#linearGradient-10)" points="672 160 688 160 688 256 672 256"></polygon>
-            <polygon id="Rectangle-Copy-50" fill="url(#linearGradient-10)" points="640 192 656 192 656 288 640 288"></polygon>
+            <path d="M680,168 L680,264 C680,272.836556 687.163444,280 696,280 L704,280 L704,280" id="Path-2-Copy-22" stroke="#87AFED" stroke-width="16"></path>
+            <path d="M712,128 L712,232 C712,240.836556 719.163444,248 728,248 L736,248 L736,248" id="Path-2-Copy-23" stroke="#87AFED" stroke-width="16"></path>
+            <path d="M440,409 L440,520 C440,528.836556 447.163444,536 456,536 L496,536 L496,536" id="Path-2-Copy-9" stroke="#87AFED" stroke-width="16"></path>
+            <path d="M552,409 L552,520 C552,528.836556 544.836556,536 536,536 L496,536 L496,536" id="Path-2-Copy-15" stroke="#87AFED" stroke-width="16"></path>
+            <path d="M472,377 L472,488.5 C472,497.336556 479.163444,504.5 488,504.5 L496,504.5 L496,504.5" id="Path-2-Copy-10" stroke="#87AFED" stroke-width="16"></path>
+            <path d="M520,377 L520,488.5 C520,497.336556 512.836556,504.5 504,504.5 L496,504.5 L496,504.5" id="Path-2-Copy-14" stroke="#87AFED" stroke-width="16"></path>
+            <path d="M376,423 L376,520 C376,528.836556 368.836556,536 360,536 L352,536 L352,536" id="Path-2-Copy-8" stroke="#87AFED" stroke-width="16"></path>
+            <rect id="Rectangle" fill="url(#linearGradient-9)" x="272" y="128" width="16" height="96"></rect>
+            <rect id="Rectangle-Copy-32" fill="url(#linearGradient-9)" x="304" y="160" width="16" height="96"></rect>
+            <rect id="Rectangle-Copy-33" fill="url(#linearGradient-9)" x="336" y="192" width="16" height="96"></rect>
+            <rect id="Rectangle-Copy-34" fill="url(#linearGradient-9)" x="272" y="320" width="16" height="96"></rect>
+            <rect id="Rectangle-Copy-35" fill="url(#linearGradient-9)" x="304" y="352" width="16" height="96"></rect>
+            <rect id="Rectangle-Copy-36" fill="url(#linearGradient-9)" x="336" y="384" width="16" height="96"></rect>
+            <rect id="Rectangle-Copy-37" fill="url(#linearGradient-9)" x="368" y="416" width="16" height="96"></rect>
+            <polygon id="Rectangle-Copy-38" fill="url(#linearGradient-10)" points="400 440 416 440 416 544 400 544"></polygon>
+            <polygon id="Rectangle-Copy-39" fill="url(#linearGradient-10)" points="432 408 448 408 448 512 432 512"></polygon>
+            <polygon id="Rectangle-Copy-40" fill="url(#linearGradient-10)" points="464 376 480 376 480 480 464 480"></polygon>
+            <polygon id="Rectangle-Copy-41" fill="url(#linearGradient-10)" points="512 376 528 376 528 480 512 480"></polygon>
+            <polygon id="Rectangle-Copy-42" fill="url(#linearGradient-10)" points="544 408 560 408 560 512 544 512"></polygon>
+            <polygon id="Rectangle-Copy-43" fill="url(#linearGradient-10)" points="576 440 592 440 592 544 576 544"></polygon>
+            <polygon id="Rectangle-Copy-44" fill="url(#linearGradient-10)" points="608 408 624 408 624 512 608 512"></polygon>
+            <polygon id="Rectangle-Copy-45" fill="url(#linearGradient-10)" points="640 376 656 376 656 480 640 480"></polygon>
+            <polygon id="Rectangle-Copy-46" fill="url(#linearGradient-10)" points="672 344 688 344 688 448 672 448"></polygon>
+            <polygon id="Rectangle-Copy-47" fill="url(#linearGradient-9)" points="704 320 720 320 720 416 704 416"></polygon>
+            <polygon id="Rectangle-Copy-48" fill="url(#linearGradient-9)" points="704 128 720 128 720 224 704 224"></polygon>
+            <polygon id="Rectangle-Copy-49" fill="url(#linearGradient-9)" points="672 160 688 160 688 256 672 256"></polygon>
+            <polygon id="Rectangle-Copy-50" fill="url(#linearGradient-9)" points="640 192 656 192 656 288 640 288"></polygon>
             <path d="M592,8 C598.142136,8 604.284271,10.3431458 608.970563,15.0294373 L704.970563,111.029437 C709.656854,115.715729 712,121.857864 712,128 C712,134.142136 709.656854,140.284271 704.970556,144.970569 L625.941304,224 L704.970563,303.029437 C709.656854,307.715729 712,313.857864 712,320 C712,326.142136 709.656854,332.284271 704.970563,336.970563 L608.970563,432.970563 C604.284271,437.656854 598.142136,440 592,440 C585.857864,440 579.715729,437.656854 575.029431,432.970556 L496,353.941304 L416.970563,432.970563 C412.284271,437.656854 406.142136,440 400,440 C393.857864,440 387.715729,437.656854 383.029437,432.970563 L287.029437,336.970563 C282.343146,332.284271 280,326.142136 280,320 C280,313.857864 282.343146,307.715729 287.029444,303.029431 L366.058696,224 L287.029437,144.970563 C282.343146,140.284271 280,134.142136 280,128 C280,121.857864 282.343146,115.715729 287.029437,111.029437 L383.029437,15.0294373 C387.715729,10.3431458 393.857864,8 400,8 C406.142136,8 412.284271,10.3431458 416.970569,15.0294437 L496,94.0586957 L575.029437,15.0294373 C579.715729,10.3431458 585.857864,8 592,8 Z" id="Path" stroke="#1F6FEB" stroke-width="16"></path>
             <path d="M699.313708,331.313708 C705.487712,325.139705 705.561212,315.175336 699.534209,308.911086 L699.313708,308.686292 L625.941,235.313 L614.627,224 L625.941,212.686 L699.313708,139.313708 C705.487712,133.139705 705.561212,123.175336 699.534209,116.911086 L699.313708,116.686292 L603.313708,20.6862915 C597.139705,14.5122884 587.175336,14.4387884 580.911086,20.4657914 L580.686292,20.6862915 L507.313,94.058 L496,105.372 L484.686,94.058 L411.313708,20.6862915 C405.139705,14.5122884 395.175336,14.4387884 388.911086,20.4657914 L388.686292,20.6862915 L292.686292,116.686292 C286.512288,122.860295 286.438788,132.824664 292.465791,139.088914 L292.686292,139.313708 L366.058,212.686 L377.372,223.999 L366.058,235.313 L292.686292,308.686292 C286.512288,314.860295 286.438788,324.824664 292.465791,331.088914 L292.686292,331.313708 L388.686292,427.313708 C394.860295,433.487712 404.824664,433.561212 411.088914,427.534209 L411.313708,427.313708 L484.686,353.941 L495.999,342.627 L507.313,353.941 L580.686292,427.313708 C586.860295,433.487712 596.824664,433.561212 603.088914,427.534209 L603.313708,427.313708 L699.313708,331.313708 Z" id="Path" fill="#FFFFFF"></path>
         </g>
