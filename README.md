@@ -8,13 +8,20 @@
 
 ```js
 // my-component.js
-import { definition } from 'hydron'
+import { mod } from 'hydron'
 
-class MyComponent extends HTMLElement {
-  // ...
-}
+//
+// hydron actually doesn't care about components, except
+// for using a serializer that properly supports declarative shadow dom.
+// instead it works with "modifications" to given `window` objects.
+//
+export default mod(window => {
+  class MyComponent extends window.HTMLElement {
+    // ...
+  }
 
-export default definition('my-component', MyComponent)
+  window.customElements.define('my-component', MyComponent)
+})
 ```
 ```js
 // index.js
@@ -37,5 +44,27 @@ page.save('dist/index.html')
 > which is yet to be supported by all major browsers ([currently its Chrome and Edge](https://caniuse.com/declarative-shadow-dom)). There are
 > possible work-arounds for this limitation, for example forgoing encapsulation and inlining components that can be inlined, but I feel those will fall
 > out of the scope of this project, although it should play nice with them.
+
+<br>
+
+Some usage examples:
+
+```js
+// server-only modifications
+import { mod } from 'hydron/server'
+
+export default mod(window => ...)
+```
+```js
+// dependency between mods (e.g. components needing each other)
+import { mod, use } from 'hydron'
+import OtherMod from './other-mod'
+
+export default mod(window => {
+  use(OtherMod)
+  // ...
+})
+```
+
 
 <br>
