@@ -32,7 +32,7 @@ const page = new Page()
 page.use(myComp)
 
 page.document.body.innerHTML = '<my-component></my-component>'
-page.save('dist/index.html')
+await page.save('dist/index.html')
 ```
 
 <br>
@@ -51,7 +51,7 @@ Some usage examples:
 
 ```js
 // server-only modifications
-import { mod } from 'hydron/server'
+import { mod } from 'hydron'
 
 export default mod(window => ...)
 ```
@@ -65,6 +65,46 @@ export default mod(window => {
   // ...
 })
 ```
+```js
+// add a modification to client
+import { mod, packMe } from 'hydron'
 
+export default mod(window => {
+  packMe()
+  // ...
+})
+```
+```js
+// wait for some tasks to be finished
+import { mod, waitFor } from 'hydron'
+
+export default mod(window => {
+  waitFor(async () => {
+    await someStuff()
+    // ...
+  })
+
+  // ...
+})
+```
+```js
+// wait for some task from within a component
+import { mod, waitFor } from 'hydron'
+
+export default mod(window => {
+  class MyElemenet extends window.HTMLElement {
+    connectedCallback() {
+      waitFor(async() => {
+        const res = await someData()
+        // ...
+      })
+
+      // ...
+    }
+  }
+
+  window.customElements.define('my-element', MyElement)
+})
+```
 
 <br>
